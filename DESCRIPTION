@@ -1,0 +1,15 @@
+Package: dpu.ptsd
+Type: Package
+Title: DPU functions for PTSD explorer.
+Version: 0.1
+Date: 2011-12-10
+Author: Jeroen Ooms
+Maintainer: Jeroen Ooms <jeroen.ooms@stat.ucla.edu>
+Description: DPU functions for PTSD explorer.
+License: AGPL
+Collate:
+    'bin.R'
+    'correlation.R'
+    'linear.R'
+    'quantiles.R'
+    'smooth.R'
