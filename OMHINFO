@@ -1,0 +1,11 @@
+Name: dpu.ptsd
+Title: PTSD Explorer DPU's
+Version: 0.1
+License: Apache2
+Type: DPU
+Author: Jeroen Ooms <jeroen.ooms@stat.ucla.edu>
+Organization: CENS
+Date: 2012-13-10
+Functions: bin, correlation, linear, quantiles, smooth
+Description: This package provides a number of DPU's that are used as part of the PTSD explorer application by the Veteran Administration
+Depends: opencpu
